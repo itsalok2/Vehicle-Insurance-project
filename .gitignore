@@ -211,3 +211,4 @@ logs
 .env
 demo.py
 proj1key.pem
+requirement1.txt
